@@ -1,0 +1,40 @@
+-----
+Boden_Kueche COL, NORM und SPEC von:
+https://texturehaven.com/tex/?c=floor&t=tiled_floor_001
+-----
+Boden_Wohnzimmer COL, NORM und SPEC von:
+https://texturehaven.com/tex/?t=kitchen_wood
+-----
+Boden_Innenhof COL, NORM und SPEC von:
+https://texturehaven.com/tex/?t=brick_floor_003
+-----
+Innenhof_Wand COL, NORM und SPEC von:
+https://texturehaven.com/tex/?t=rough_plasterbrick_05
+-----
+Boden_Bad COL, NORM und SPEC von:
+https://texturehaven.com/tex/?t=floor_tiles_06
+-----
+Wand COL, NORM und SPEC von:
+https://texturehaven.com/tex/?t=grey_plaster
+-----
+Container_Base COL, NORM und SPEC von:
+https://texturehaven.com/tex/?c=metal&t=rusty_metal_02
+-----
+Holz COL, NORM und SPEC von:
+https://texturehaven.com/tex/?c=wood&t=fine_grained_wood
+-----
+Wallpaper COL, NORM und SPEC von:
+https://www.textures.com/download/PBR0586/138903
+-----
+Boden_Flur COL, NORM und SPEC von:
+https://www.textures.com/download/PBR0465/138353
+-----
+Konserve_COL von:
+https://www.rgbstock.de/photo/mhYBHj2/Tin+texture+3
+-----
+Marble COL, NORM und SPEC von:
+https://www.textures.com/download/PBR0494/138505
+-----
+Banane COL von:
+https://seamless-pixels.blogspot.com/2012/01/seamless-banana-skin.html
+-----
